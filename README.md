@@ -1,4 +1,4 @@
-# DeepLearningCreditRiskModeling
+# Deep Learning Credit Risk Modeling
 Replication codes for Deep Learning Credit Risk Modeling by Manzo, Qiao
 
 This repository contains the Python APIs to replicate the paper "Deep Learning Credit Risk Modeling," Gerardo Manzo and Xiao Qiao, The Journal of Fixed Income Fall 2021, jfi.2021.1.121; DOI: https://doi.org/10.3905/jfi.2021.1.121
