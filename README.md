@@ -16,3 +16,8 @@ Markup :
 * model_calibration: calibrate models to real data using trained DNN
 
 Finally, the folder 'data' contains all the generated data and trained models.
+
+# Calibration Efficiency
+Our DNN approach will make it very efficient to online calibrate a pricing model to data. In practice, our trained DNNs will replace any numerical approximation of any complex pricing function that is not available in closed-form solution.
+
+![alt text](https://github.com/gmanzog/DeepLearningCreditRiskModeling/blob/main/efficiencyTable.png)
